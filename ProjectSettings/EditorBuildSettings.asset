@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/01_MainMenu.unity
+    guid: 96e6ce57b57e1a2438a5ddccc8ea89d8
+  - enabled: 1
+    path: Assets/Scenes/02_KahootSelector.unity
+    guid: dfe7a794873b8064e80ef7ac46911903
+  - enabled: 1
+    path: Assets/Scenes/03_KahootGame.unity
+    guid: 42d61445895043e4daf9a030467929b1
+  - enabled: 1
+    path: Assets/Scenes/04_Leaderboard.unity
+    guid: 7c8205c8ef69e23488b225e25f057465
+  - enabled: 1
+    path: Assets/Scenes/05_ExceptionViewer.unity
+    guid: d7237528ea5c20243a8081aea56cd854
+  - enabled: 1
+    path: Assets/Scenes/06_KahootCreator.unity
+    guid: f4a01f40ed4f06d4dbdef3fa76af2013
+  - enabled: 1
+    path: Assets/Scenes/07_About.unity
+    guid: edaab0268db572c4db0ff1a39bef580b
+  - enabled: 1
+    path: Assets/Scenes/08_Create_Edit.unity
+    guid: 8f360323a7f6e76428510adaf453895c
+  - enabled: 1
+    path: Assets/Scenes/09_Kahoot_Edit.unity
+    guid: 710a38ff9f3d2184484513e5336c4f64
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
